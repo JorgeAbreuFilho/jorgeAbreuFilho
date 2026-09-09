@@ -6,21 +6,20 @@
 ### 🚀 Sobre Mim
 - 🎓 Cursando o **2º período de Ciência da Computação**.
 - 💡 Construindo minha base em **Lógica, Algoritmos e Estrutura de Dados**.
-- 🌐 Aprofundando estudos em Web Front-End: **HTML5**, **CSS3** e **JavaScript** (manipulação de DOM, lógica e sintaxe moderna).
-- 📌 Praticando versionamento de código com **Git & GitHub**.
+- 🌐 Aprofundando estudos em Web Front-End: **HTML5**, **CSS3** e **JavaScript**.
 - 🎯 Buscando desenvolver projetos pessoais e me preparar para futuras oportunidades de estágio.
 
 ### 🛠️ Habilidades Técnicas (Hard Skills)
 **💻 Desenvolvimento Web (Foco Atual):**
-- **HTML5 & CSS3:** Criação de páginas estruturadas, layouts responsivos e estilização.
-- **JavaScript:** Lógica de programação, manipulação do DOM e fundamentos da sintaxe moderna (ES6+ em aprendizado).
+- **HTML:** Criação de páginas estruturadas.
+- **JavaScript:** Lógica de programação.
 
 **📚 Base da Ciência da Computação:**
 - Lógica de Programação, Algoritmos e Estrutura de Dados.
-- Noções de linguagens da matriz curricular (ex: C / C++ / Python — *ajuste se necessário*).
+
 
 **🛠️ Ferramentas & Práticas:**
-- Git, GitHub e VS Code.
+- GitHub e VS Code.
 
 ### 🤝 Habilidades Interpessoais (Soft Skills)
 - 🧠 **Resolução de Problemas:** Curiosidade técnica para entender como as coisas funcionam por baixo dos panos e solucionar bugs.
