@@ -12,6 +12,7 @@
 ### 🛠️ Habilidades Técnicas (Hard Skills)
 **💻 Desenvolvimento Web (Foco Atual):**
 - **HTML:** Criação de páginas estruturadas.
+- **CSS:** Estilização e layout de páginas.
 - **JavaScript:** Lógica de programação.
 
 **📚 Base da Ciência da Computação:**
